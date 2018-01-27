@@ -1,6 +1,5 @@
-title{
-	font-size: 100px;
-}
-jumbotron{
 
-}
+#container{
+		display: flex;
+		flex-direction: flex-center;
+	}
